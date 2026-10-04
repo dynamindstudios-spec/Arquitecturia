@@ -1,0 +1,27 @@
+{
+  "id": "casa-pt",
+  "title": "Casa PT",
+  "category": "Residencial",
+  "coverVariable": "zy",
+  "coverAsset": "/assets/fachada-frontal-Dqi67KT7.jpg",
+  "galleryVariables": [
+    "zy",
+    "PL",
+    "AL",
+    "RL"
+  ],
+  "galleryAssets": [
+    "/assets/fachada-frontal-Dqi67KT7.jpg",
+    "/assets/fachada-jardin-Bkr_3_PZ.jpg",
+    "/assets/piscina-CFotCRvy.jpg",
+    "/assets/terraza-piscina-7I_TmM9G.jpg"
+  ],
+  "coverLocal": "/extracted/simetria/assets/fachada-frontal-Dqi67KT7.jpg",
+  "galleryLocal": [
+    "/extracted/simetria/assets/fachada-frontal-Dqi67KT7.jpg",
+    "/extracted/simetria/assets/fachada-jardin-Bkr_3_PZ.jpg",
+    "/extracted/simetria/assets/piscina-CFotCRvy.jpg",
+    "/extracted/simetria/assets/terraza-piscina-7I_TmM9G.jpg"
+  ],
+  "totalImages": 4
+}

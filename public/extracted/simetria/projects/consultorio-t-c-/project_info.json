@@ -1,0 +1,48 @@
+{
+  "id": "consultorio-t-c-",
+  "title": "Consultorio T.C.",
+  "category": "Comercial",
+  "coverVariable": "rv",
+  "coverAsset": "/assets/recepcion-VQqZ9yCz.jpg",
+  "galleryVariables": [
+    "rv",
+    "t2",
+    "n2",
+    "r2",
+    "s2",
+    "i2",
+    "o2",
+    "a2",
+    "l2",
+    "u2",
+    "c2"
+  ],
+  "galleryAssets": [
+    "/assets/recepcion-VQqZ9yCz.jpg",
+    "/assets/detalle-lampara-C_I0QmPX.jpg",
+    "/assets/sala-espera-BRx1nTJ-.jpg",
+    "/assets/espejo-IanMpZX5.jpg",
+    "/assets/recepcion-general-BzBXdZch.jpg",
+    "/assets/sala-espera-persona-CB1KAoTh.jpg",
+    "/assets/detalle-mano-DvQptbVD.jpg",
+    "/assets/letrero-KufNhst3.jpg",
+    "/assets/pasillo-CTjtfOgU.jpg",
+    "/assets/columna-persona-BwzA7uOz.jpg",
+    "/assets/sillon-dental-DpkpzQWg.jpg"
+  ],
+  "coverLocal": "/extracted/simetria/assets/recepcion-VQqZ9yCz.jpg",
+  "galleryLocal": [
+    "/extracted/simetria/assets/recepcion-VQqZ9yCz.jpg",
+    "/extracted/simetria/assets/detalle-lampara-C_I0QmPX.jpg",
+    "/extracted/simetria/assets/sala-espera-BRx1nTJ-.jpg",
+    "/extracted/simetria/assets/espejo-IanMpZX5.jpg",
+    "/extracted/simetria/assets/recepcion-general-BzBXdZch.jpg",
+    "/extracted/simetria/assets/sala-espera-persona-CB1KAoTh.jpg",
+    "/extracted/simetria/assets/detalle-mano-DvQptbVD.jpg",
+    "/extracted/simetria/assets/letrero-KufNhst3.jpg",
+    "/extracted/simetria/assets/pasillo-CTjtfOgU.jpg",
+    "/extracted/simetria/assets/columna-persona-BwzA7uOz.jpg",
+    "/extracted/simetria/assets/sillon-dental-DpkpzQWg.jpg"
+  ],
+  "totalImages": 11
+}

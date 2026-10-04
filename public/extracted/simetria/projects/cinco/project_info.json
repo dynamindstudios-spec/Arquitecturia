@@ -1,0 +1,36 @@
+{
+  "id": "cinco",
+  "title": "Cinco",
+  "category": "Comercial",
+  "coverVariable": "Zy",
+  "coverAsset": "/assets/fachada-BmfUsK3j.jpg",
+  "galleryVariables": [
+    "Zy",
+    "LD",
+    "DD",
+    "ND",
+    "$D",
+    "MD",
+    "ID"
+  ],
+  "galleryAssets": [
+    "/assets/fachada-BmfUsK3j.jpg",
+    "/assets/interior-general-BYXIuXu9.jpg",
+    "/assets/barra-DHC51xGM.jpg",
+    "/assets/interior-mesas-CVY3sSv1.jpg",
+    "$D",
+    "/assets/pasillo-AsntaJPy.jpg",
+    "/assets/detalle-logo-B8NTK5ws.jpg"
+  ],
+  "coverLocal": "/extracted/simetria/assets/fachada-BmfUsK3j.jpg",
+  "galleryLocal": [
+    "/extracted/simetria/assets/fachada-BmfUsK3j.jpg",
+    "/extracted/simetria/assets/interior-general-BYXIuXu9.jpg",
+    "/extracted/simetria/assets/barra-DHC51xGM.jpg",
+    "/extracted/simetria/assets/interior-mesas-CVY3sSv1.jpg",
+    "/extracted/simetria/assets/$D",
+    "/extracted/simetria/assets/pasillo-AsntaJPy.jpg",
+    "/extracted/simetria/assets/detalle-logo-B8NTK5ws.jpg"
+  ],
+  "totalImages": 7
+}

@@ -1,0 +1,33 @@
+{
+  "id": "casa-f-s",
+  "title": "Casa F.S",
+  "category": "Residencial",
+  "coverVariable": "ov",
+  "coverAsset": "/assets/fachada-CVdW0C_K.jpg",
+  "galleryVariables": [
+    "ov",
+    "g2",
+    "y2",
+    "v2",
+    "w2",
+    "b2"
+  ],
+  "galleryAssets": [
+    "/assets/fachada-CVdW0C_K.jpg",
+    "/assets/piscina-B2yygfxX.jpg",
+    "/assets/aerea-DTi6UMIE.jpg",
+    "/assets/habitacion-29zkkND6.jpg",
+    "/assets/bano-Bt4xqM91.jpg",
+    "/assets/suite-HwZibZnr.jpg"
+  ],
+  "coverLocal": "/extracted/simetria/assets/fachada-CVdW0C_K.jpg",
+  "galleryLocal": [
+    "/extracted/simetria/assets/fachada-CVdW0C_K.jpg",
+    "/extracted/simetria/assets/piscina-B2yygfxX.jpg",
+    "/extracted/simetria/assets/aerea-DTi6UMIE.jpg",
+    "/extracted/simetria/assets/habitacion-29zkkND6.jpg",
+    "/extracted/simetria/assets/bano-Bt4xqM91.jpg",
+    "/extracted/simetria/assets/suite-HwZibZnr.jpg"
+  ],
+  "totalImages": 6
+}

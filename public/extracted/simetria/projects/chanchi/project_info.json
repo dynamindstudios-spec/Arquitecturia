@@ -1,0 +1,30 @@
+{
+  "id": "chanchi",
+  "title": "Chanchi",
+  "category": "Comercial",
+  "coverVariable": "sv",
+  "coverAsset": "/assets/recepcion-DzoixTFR.jpg",
+  "galleryVariables": [
+    "sv",
+    "d2",
+    "h2",
+    "f2",
+    "p2"
+  ],
+  "galleryAssets": [
+    "/assets/recepcion-DzoixTFR.jpg",
+    "/assets/cafe-C4kz8pIV.jpg",
+    "/assets/consulta-WDme5sZR.jpg",
+    "/assets/sillon-Bm_aLZq1.jpg",
+    "/assets/consultorio-BZwlO6mp.jpg"
+  ],
+  "coverLocal": "/extracted/simetria/assets/recepcion-DzoixTFR.jpg",
+  "galleryLocal": [
+    "/extracted/simetria/assets/recepcion-DzoixTFR.jpg",
+    "/extracted/simetria/assets/cafe-C4kz8pIV.jpg",
+    "/extracted/simetria/assets/consulta-WDme5sZR.jpg",
+    "/extracted/simetria/assets/sillon-Bm_aLZq1.jpg",
+    "/extracted/simetria/assets/consultorio-BZwlO6mp.jpg"
+  ],
+  "totalImages": 5
+}

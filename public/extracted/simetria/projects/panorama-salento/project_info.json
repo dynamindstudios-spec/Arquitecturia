@@ -1,0 +1,39 @@
+{
+  "id": "panorama-salento",
+  "title": "Panorama Salento",
+  "category": "Turismo",
+  "coverVariable": "Gy",
+  "coverAsset": "/assets/fachada-BH8OQpFp.jpg",
+  "galleryVariables": [
+    "Gy",
+    "WL",
+    "HL",
+    "KL",
+    "qL",
+    "GL",
+    "YL",
+    "QL"
+  ],
+  "galleryAssets": [
+    "/assets/fachada-BH8OQpFp.jpg",
+    "/assets/pasillo-verde-DumTfCor.jpg",
+    "/assets/lobby-gIqesKSx.jpg",
+    "/assets/bano-KgBUHhxW.jpg",
+    "/assets/pasillo-madera-Bnmywne8.jpg",
+    "/assets/habitacion-Dpn9d-Pu.jpg",
+    "/assets/exterior-noche-Bj91q-98.jpg",
+    "/assets/exterior-jardin-BrWaH0d6.jpg"
+  ],
+  "coverLocal": "/extracted/simetria/assets/fachada-BH8OQpFp.jpg",
+  "galleryLocal": [
+    "/extracted/simetria/assets/fachada-BH8OQpFp.jpg",
+    "/extracted/simetria/assets/pasillo-verde-DumTfCor.jpg",
+    "/extracted/simetria/assets/lobby-gIqesKSx.jpg",
+    "/extracted/simetria/assets/bano-KgBUHhxW.jpg",
+    "/extracted/simetria/assets/pasillo-madera-Bnmywne8.jpg",
+    "/extracted/simetria/assets/habitacion-Dpn9d-Pu.jpg",
+    "/extracted/simetria/assets/exterior-noche-Bj91q-98.jpg",
+    "/extracted/simetria/assets/exterior-jardin-BrWaH0d6.jpg"
+  ],
+  "totalImages": 8
+}

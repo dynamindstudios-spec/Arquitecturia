@@ -1,0 +1,24 @@
+{
+  "id": "casa-45-entremaderos",
+  "title": "Casa 45 Entremaderos",
+  "category": "Residencial",
+  "coverVariable": "lv",
+  "coverAsset": "/assets/sala-BAhPuGyv.jpg",
+  "galleryVariables": [
+    "lv",
+    "C2",
+    "P2"
+  ],
+  "galleryAssets": [
+    "/assets/sala-BAhPuGyv.jpg",
+    "/assets/cocina-CKWAVo2L.jpg",
+    "/assets/pasillo-B5qAArBj.jpg"
+  ],
+  "coverLocal": "/extracted/simetria/assets/sala-BAhPuGyv.jpg",
+  "galleryLocal": [
+    "/extracted/simetria/assets/sala-BAhPuGyv.jpg",
+    "/extracted/simetria/assets/cocina-CKWAVo2L.jpg",
+    "/extracted/simetria/assets/pasillo-B5qAArBj.jpg"
+  ],
+  "totalImages": 3
+}

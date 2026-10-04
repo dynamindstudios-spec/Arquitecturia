@@ -1,0 +1,51 @@
+{
+  "id": "bloom-garden",
+  "title": "Bloom Garden",
+  "category": "Comercial",
+  "coverVariable": "Qy",
+  "coverAsset": "/assets/vista-general-DzpigSxg.jpg",
+  "galleryVariables": [
+    "Qy",
+    "XL",
+    "ZL",
+    "eD",
+    "tD",
+    "nD",
+    "rD",
+    "sD",
+    "iD",
+    "oD",
+    "aD",
+    "lD"
+  ],
+  "galleryAssets": [
+    "/assets/vista-general-DzpigSxg.jpg",
+    "/assets/interior-mesas-BiK5f5B2.jpg",
+    "/assets/columna-interior-DUQp5yUg.jpg",
+    "/assets/detalle-lampara-BmLZtp9h.jpg",
+    "/assets/lavamanos-DdJpSiPr.jpg",
+    "/assets/entrada-DRKCesHi.jpg",
+    "/assets/mesa-concreto-D3WFGx2b.jpg",
+    "/assets/columna-persona-Dx4wcpjB.jpg",
+    "/assets/cocina-barra-uFQnjKHb.jpg",
+    "/assets/mural-plantas-DftCziIh.jpg",
+    "/assets/detalle-piedra-Czuj0e1Y.jpg",
+    "/assets/arbol-cocina-DSomPJng.jpg"
+  ],
+  "coverLocal": "/extracted/simetria/assets/vista-general-DzpigSxg.jpg",
+  "galleryLocal": [
+    "/extracted/simetria/assets/vista-general-DzpigSxg.jpg",
+    "/extracted/simetria/assets/interior-mesas-BiK5f5B2.jpg",
+    "/extracted/simetria/assets/columna-interior-DUQp5yUg.jpg",
+    "/extracted/simetria/assets/detalle-lampara-BmLZtp9h.jpg",
+    "/extracted/simetria/assets/lavamanos-DdJpSiPr.jpg",
+    "/extracted/simetria/assets/entrada-DRKCesHi.jpg",
+    "/extracted/simetria/assets/mesa-concreto-D3WFGx2b.jpg",
+    "/extracted/simetria/assets/columna-persona-Dx4wcpjB.jpg",
+    "/extracted/simetria/assets/cocina-barra-uFQnjKHb.jpg",
+    "/extracted/simetria/assets/mural-plantas-DftCziIh.jpg",
+    "/extracted/simetria/assets/detalle-piedra-Czuj0e1Y.jpg",
+    "/extracted/simetria/assets/arbol-cocina-DSomPJng.jpg"
+  ],
+  "totalImages": 12
+}

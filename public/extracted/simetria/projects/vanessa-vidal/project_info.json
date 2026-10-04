@@ -1,0 +1,45 @@
+{
+  "id": "vanessa-vidal",
+  "title": "Vanessa Vidal",
+  "category": "Comercial",
+  "coverVariable": "cv",
+  "coverAsset": "/assets/recepcion-S2iI2vbt.jpg",
+  "galleryVariables": [
+    "cv",
+    "D2",
+    "M2",
+    "$2",
+    "F2",
+    "B2",
+    "U2",
+    "V2",
+    "z2",
+    "W2"
+  ],
+  "galleryAssets": [
+    "/assets/recepcion-S2iI2vbt.jpg",
+    "/assets/escritorio-DIjVxuES.jpg",
+    "/assets/espejo-Dr1eORWY.jpg",
+    "$2",
+    "/assets/detalle-BqAtcECt.jpg",
+    "/assets/lampara-BBitBdG0.jpg",
+    "/assets/puerta-Dakxx5D8.jpg",
+    "/assets/sala-espera-C80jXbby.jpg",
+    "/assets/pasillo-celosia-Bx5SPMhi.jpg",
+    "/assets/lavamanos-oshy9d8K.jpg"
+  ],
+  "coverLocal": "/extracted/simetria/assets/recepcion-S2iI2vbt.jpg",
+  "galleryLocal": [
+    "/extracted/simetria/assets/recepcion-S2iI2vbt.jpg",
+    "/extracted/simetria/assets/escritorio-DIjVxuES.jpg",
+    "/extracted/simetria/assets/espejo-Dr1eORWY.jpg",
+    "/extracted/simetria/assets/$2",
+    "/extracted/simetria/assets/detalle-BqAtcECt.jpg",
+    "/extracted/simetria/assets/lampara-BBitBdG0.jpg",
+    "/extracted/simetria/assets/puerta-Dakxx5D8.jpg",
+    "/extracted/simetria/assets/sala-espera-C80jXbby.jpg",
+    "/extracted/simetria/assets/pasillo-celosia-Bx5SPMhi.jpg",
+    "/extracted/simetria/assets/lavamanos-oshy9d8K.jpg"
+  ],
+  "totalImages": 10
+}

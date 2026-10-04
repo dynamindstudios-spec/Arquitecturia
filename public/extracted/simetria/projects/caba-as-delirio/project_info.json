@@ -1,0 +1,21 @@
+{
+  "id": "caba-as-delirio",
+  "title": "Cabañas Delirio",
+  "category": "Turismo",
+  "coverVariable": "Hy",
+  "coverAsset": "/assets/exterior-Y8qx6lvv.jpg",
+  "galleryVariables": [
+    "Hy",
+    "LL"
+  ],
+  "galleryAssets": [
+    "/assets/exterior-Y8qx6lvv.jpg",
+    "/assets/habitacion-DeQ2L50N.jpg"
+  ],
+  "coverLocal": "/extracted/simetria/assets/exterior-Y8qx6lvv.jpg",
+  "galleryLocal": [
+    "/extracted/simetria/assets/exterior-Y8qx6lvv.jpg",
+    "/extracted/simetria/assets/habitacion-DeQ2L50N.jpg"
+  ],
+  "totalImages": 2
+}

@@ -1,0 +1,33 @@
+{
+  "id": "casa-49-santa-clara",
+  "title": "Casa 49 Santa Clara",
+  "category": "Residencial",
+  "coverVariable": "Vy",
+  "coverAsset": "/assets/sala-ODRJef5o.jpg",
+  "galleryVariables": [
+    "Vy",
+    "EL",
+    "_L",
+    "TL",
+    "kL",
+    "CL"
+  ],
+  "galleryAssets": [
+    "/assets/sala-ODRJef5o.jpg",
+    "/assets/interior-BKvI4uH_.jpg",
+    "/assets/sofa-DhZOHS22.jpg",
+    "/assets/tv-madera-DIHSdA4o.jpg",
+    "/assets/sala-completa-l74ILhcr.jpg",
+    "/assets/lamparas-czZWrXY3.jpg"
+  ],
+  "coverLocal": "/extracted/simetria/assets/sala-ODRJef5o.jpg",
+  "galleryLocal": [
+    "/extracted/simetria/assets/sala-ODRJef5o.jpg",
+    "/extracted/simetria/assets/interior-BKvI4uH_.jpg",
+    "/extracted/simetria/assets/sofa-DhZOHS22.jpg",
+    "/extracted/simetria/assets/tv-madera-DIHSdA4o.jpg",
+    "/extracted/simetria/assets/sala-completa-l74ILhcr.jpg",
+    "/extracted/simetria/assets/lamparas-czZWrXY3.jpg"
+  ],
+  "totalImages": 6
+}

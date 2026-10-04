@@ -1,0 +1,39 @@
+{
+  "id": "casa-del-r-o",
+  "title": "Casa del Río",
+  "category": "Residencial",
+  "coverVariable": "Uy",
+  "coverAsset": "/assets/exterior-frontal-C4wdFiCk.jpg",
+  "galleryVariables": [
+    "Uy",
+    "gL",
+    "yL",
+    "vL",
+    "wL",
+    "bL",
+    "xL",
+    "SL"
+  ],
+  "galleryAssets": [
+    "/assets/exterior-frontal-C4wdFiCk.jpg",
+    "/assets/exterior-lateral-BwQ3hIfs.jpg",
+    "/assets/cocina-D1N9K1Tw.jpg",
+    "/assets/piscina-atardecer-0ekmNwAb.jpg",
+    "/assets/terraza-piscina-CCvKMkbt.jpg",
+    "/assets/escaleras-DM1sWSr_.jpg",
+    "/assets/fachada-noche-DMVgpBIr.jpg",
+    "/assets/detalle-madera-F_4ufQfU.jpg"
+  ],
+  "coverLocal": "/extracted/simetria/assets/exterior-frontal-C4wdFiCk.jpg",
+  "galleryLocal": [
+    "/extracted/simetria/assets/exterior-frontal-C4wdFiCk.jpg",
+    "/extracted/simetria/assets/exterior-lateral-BwQ3hIfs.jpg",
+    "/extracted/simetria/assets/cocina-D1N9K1Tw.jpg",
+    "/extracted/simetria/assets/piscina-atardecer-0ekmNwAb.jpg",
+    "/extracted/simetria/assets/terraza-piscina-CCvKMkbt.jpg",
+    "/extracted/simetria/assets/escaleras-DM1sWSr_.jpg",
+    "/extracted/simetria/assets/fachada-noche-DMVgpBIr.jpg",
+    "/extracted/simetria/assets/detalle-madera-F_4ufQfU.jpg"
+  ],
+  "totalImages": 8
+}

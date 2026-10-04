@@ -1,0 +1,33 @@
+{
+  "id": "brod",
+  "title": "Brod",
+  "category": "Comercial",
+  "coverVariable": "ev",
+  "coverAsset": "/assets/fachada-C4HOLxpl.jpg",
+  "galleryVariables": [
+    "ev",
+    "FD",
+    "BD",
+    "UD",
+    "VD",
+    "zD"
+  ],
+  "galleryAssets": [
+    "/assets/fachada-C4HOLxpl.jpg",
+    "/assets/vitrina-DG38kg0h.jpg",
+    "/assets/interior-C-YOYKx7.jpg",
+    "/assets/barra-ventana-BhaIu-g0.jpg",
+    "/assets/mostrador-B0jqnxnQ.jpg",
+    "/assets/cocina-BlTyc3cD.jpg"
+  ],
+  "coverLocal": "/extracted/simetria/assets/fachada-C4HOLxpl.jpg",
+  "galleryLocal": [
+    "/extracted/simetria/assets/fachada-C4HOLxpl.jpg",
+    "/extracted/simetria/assets/vitrina-DG38kg0h.jpg",
+    "/extracted/simetria/assets/interior-C-YOYKx7.jpg",
+    "/extracted/simetria/assets/barra-ventana-BhaIu-g0.jpg",
+    "/extracted/simetria/assets/mostrador-B0jqnxnQ.jpg",
+    "/extracted/simetria/assets/cocina-BlTyc3cD.jpg"
+  ],
+  "totalImages": 6
+}

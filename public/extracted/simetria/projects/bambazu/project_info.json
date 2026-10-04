@@ -1,0 +1,21 @@
+{
+  "id": "bambazu",
+  "title": "Bambazu",
+  "category": "Residencial",
+  "coverVariable": "iv",
+  "coverAsset": "/assets/fachada-uqOZer1n.jpg",
+  "galleryVariables": [
+    "iv",
+    "m2"
+  ],
+  "galleryAssets": [
+    "/assets/fachada-uqOZer1n.jpg",
+    "/assets/sala-BgpwNO47.jpg"
+  ],
+  "coverLocal": "/extracted/simetria/assets/fachada-uqOZer1n.jpg",
+  "galleryLocal": [
+    "/extracted/simetria/assets/fachada-uqOZer1n.jpg",
+    "/extracted/simetria/assets/sala-BgpwNO47.jpg"
+  ],
+  "totalImages": 2
+}

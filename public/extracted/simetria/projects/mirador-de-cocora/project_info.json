@@ -1,0 +1,30 @@
+{
+  "id": "mirador-de-cocora",
+  "title": "Mirador de Cocora",
+  "category": "Turismo",
+  "coverVariable": "Ky",
+  "coverAsset": "/assets/terraza-panoramica-Cs8_Z7eJ.jpg",
+  "galleryVariables": [
+    "Ky",
+    "$L",
+    "DL",
+    "ML",
+    "FL"
+  ],
+  "galleryAssets": [
+    "/assets/terraza-panoramica-Cs8_Z7eJ.jpg",
+    "$L",
+    "/assets/recepcion-BrXEjoWX.jpg",
+    "/assets/terraza-CozCGXO_.jpg",
+    "/assets/interior-Bpdp2zA9.jpg"
+  ],
+  "coverLocal": "/extracted/simetria/assets/terraza-panoramica-Cs8_Z7eJ.jpg",
+  "galleryLocal": [
+    "/extracted/simetria/assets/terraza-panoramica-Cs8_Z7eJ.jpg",
+    "/extracted/simetria/assets/$L",
+    "/extracted/simetria/assets/recepcion-BrXEjoWX.jpg",
+    "/extracted/simetria/assets/terraza-CozCGXO_.jpg",
+    "/extracted/simetria/assets/interior-Bpdp2zA9.jpg"
+  ],
+  "totalImages": 5
+}

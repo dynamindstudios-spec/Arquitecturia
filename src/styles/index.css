@@ -1,0 +1,130 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+  --brand-deep: #0a0a0a;
+  --brand-dark: #141414;
+  --brand-surface: #181818;
+  --brand-surface-hover: #222222;
+  --brand-mint: #b8ded8;
+  --brand-mint-light: #d3ece7;
+  --brand-mint-dark: #8cb8b0;
+  --brand-bronze: #c5a880;
+  --brand-gray: #737373;
+  --brand-light: #f5f5f5;
+  --border-subtle: rgba(184, 222, 216, 0.12);
+  --border-strong: rgba(184, 222, 216, 0.28);
+  --radius-card: 8px;
+  --radius-button: 6px;
+  --radius-modal: 10px;
+}
+
+html, body {
+  color-scheme: dark;
+  background-color: #0a0a0a;
+  color: #f5f5f5;
+}
+
+/* Harmonious Architectural Datepickers & Selects */
+input[type="date"],
+input[type="time"],
+input[type="datetime-local"] {
+  color-scheme: dark;
+  background-color: #141414 !important;
+  color: #f5f5f5 !important;
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator,
+input[type="time"]::-webkit-calendar-picker-indicator {
+  filter: invert(0.85) sepia(20%) saturate(300%) hue-rotate(110deg) brightness(1.1);
+  cursor: pointer;
+  opacity: 0.85;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator:hover,
+input[type="time"]::-webkit-calendar-picker-indicator:hover {
+  opacity: 1;
+  transform: scale(1.1);
+}
+
+select {
+  color-scheme: dark;
+  background-color: #141414 !important;
+  color: #f5f5f5 !important;
+}
+
+select option {
+  background-color: #141414 !important;
+  color: #f5f5f5 !important;
+  padding: 8px 12px;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #0a0a0a;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(184, 222, 216, 0.2);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(184, 222, 216, 0.4);
+}
+
+/* Typography styles */
+.font-architectural {
+  font-family: 'Montserrat', system-ui, sans-serif;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+}
+
+.font-editorial-heading {
+  font-family: 'Montserrat', system-ui, sans-serif;
+  font-weight: 900;
+  letter-spacing: -0.03em;
+  line-height: 0.95;
+}
+
+/* Precision micro-radius for tactile luxury */
+.sharp-card {
+  border-radius: var(--radius-card);
+  border: 1px solid var(--border-subtle);
+  background: var(--brand-surface);
+}
+
+.sharp-btn {
+  border-radius: var(--radius-button);
+}
+
+/* Radial light gradients */
+.bg-radial-gradient {
+  background-image: radial-gradient(circle at 50% 50%, var(--tw-gradient-stops));
+}
+
+/* Print styles for VIP Appointment Voucher */
+@media print {
+  body {
+    background: #ffffff !important;
+    color: #000000 !important;
+  }
+  .no-print {
+    display: none !important;
+  }
+  .print-only {
+    display: block !important;
+  }
+  .printable-voucher-container {
+    padding: 0 !important;
+    margin: 0 !important;
+    background: #ffffff !important;
+    color: #000000 !important;
+    border: 2px solid #000000 !important;
+  }
+}

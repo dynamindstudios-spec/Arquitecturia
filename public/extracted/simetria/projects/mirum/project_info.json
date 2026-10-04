@@ -1,0 +1,21 @@
+{
+  "id": "mirum",
+  "title": "Mirum",
+  "category": "Comercial",
+  "coverVariable": "Yy",
+  "coverAsset": "/assets/vista-nocturna-CC-TyK1y.jpg",
+  "galleryVariables": [
+    "Yy",
+    "JL"
+  ],
+  "galleryAssets": [
+    "/assets/vista-nocturna-CC-TyK1y.jpg",
+    "/assets/noche-BnP-n6Mp.jpg"
+  ],
+  "coverLocal": "/extracted/simetria/assets/vista-nocturna-CC-TyK1y.jpg",
+  "galleryLocal": [
+    "/extracted/simetria/assets/vista-nocturna-CC-TyK1y.jpg",
+    "/extracted/simetria/assets/noche-BnP-n6Mp.jpg"
+  ],
+  "totalImages": 2
+}

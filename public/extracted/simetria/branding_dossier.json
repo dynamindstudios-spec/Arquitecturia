@@ -1,0 +1,923 @@
+{
+  "brandName": "Simetría Grupo Constructor",
+  "tagline": "Arquitectura y Diseño",
+  "quote": "Crear es la única forma de resistir la fugacidad de nuestra existencia; al crear seguimos habitando el mundo, aunque sea un poco más.",
+  "about": {
+    "badge": "01",
+    "title": "Simetría",
+    "description": "Estudio de arquitectura, diseño y construcción de alto estatus. Proyectos residenciales de lujo, comerciales de vanguardia y complejos turísticos con una visión contemporánea y atemporal en el Eje Cafetero y Colombia.",
+    "stats": [
+      {
+        "number": "50+",
+        "label": "Proyectos Realizados"
+      },
+      {
+        "number": "12",
+        "label": "Años de Trayectoria"
+      },
+      {
+        "number": "8",
+        "label": "Premios de Arquitectura"
+      },
+      {
+        "number": "100%",
+        "label": "Materialidad Noble"
+      }
+    ],
+    "teamPhoto": "/extracted/simetria/assets/foto-7-BUhdoSwb.jpg"
+  },
+  "contact": {
+    "email": "simetria.gc@gmail.com",
+    "phone": "+57 300 2596855",
+    "whatsapp": "573002596855",
+    "city": "Armenia, Quindío, Colombia",
+    "coordinates": {
+      "lat": 4.532563,
+      "lng": -75.671684,
+      "googleMapsUrl": "https://maps.google.com/?q=4.532563,-75.671684"
+    },
+    "instagram": "https://www.instagram.com/simetria_gc/?hl=es",
+    "instagramHandle": "@simetria_gc"
+  },
+  "visualIdentity": {
+    "archetype": "ARCHITECTURAL_MONOLITH",
+    "morphology": "SHARP_ORTHOGONAL",
+    "colorPalette": {
+      "dark": "#424242",
+      "darkDeep": "#1a1a1a",
+      "darkBlack": "#0d0d0d",
+      "mint": "#b8ded8",
+      "mintLight": "#d3ece7",
+      "mintHover": "#9ed2ca",
+      "gray": "#666666",
+      "grayLight": "#a3a3a3",
+      "surfaceLight": "#f5f5f5",
+      "accentBronze": "#c5a880",
+      "accentGold": "#d4af37"
+    },
+    "typography": {
+      "display": "Montserrat, serif, sans-serif",
+      "displayWeight": "900",
+      "body": "Montserrat, sans-serif",
+      "mono": "SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+    },
+    "logos": {
+      "mint": "/extracted/simetria/logo-mint.png",
+      "horizontal": "/extracted/simetria/logo-horizontal.png",
+      "gray": "/extracted/simetria/logo-gray.png",
+      "default": "/extracted/simetria/logo.png"
+    }
+  },
+  "categories": [
+    "Todos",
+    "Residencial",
+    "Comercial",
+    "Turismo"
+  ],
+  "totalProjects": 24,
+  "projects": [
+    {
+      "id": "mirum",
+      "title": "Mirum",
+      "category": "Comercial",
+      "coverVariable": "Yy",
+      "coverAsset": "/assets/vista-nocturna-CC-TyK1y.jpg",
+      "galleryVariables": [
+        "Yy",
+        "JL"
+      ],
+      "galleryAssets": [
+        "/assets/vista-nocturna-CC-TyK1y.jpg",
+        "/assets/noche-BnP-n6Mp.jpg"
+      ],
+      "coverLocal": "/extracted/simetria/assets/vista-nocturna-CC-TyK1y.jpg",
+      "galleryLocal": [
+        "/extracted/simetria/assets/vista-nocturna-CC-TyK1y.jpg",
+        "/extracted/simetria/assets/noche-BnP-n6Mp.jpg"
+      ],
+      "totalImages": 2
+    },
+    {
+      "id": "casa-49-santa-clara",
+      "title": "Casa 49 Santa Clara",
+      "category": "Residencial",
+      "coverVariable": "Vy",
+      "coverAsset": "/assets/sala-ODRJef5o.jpg",
+      "galleryVariables": [
+        "Vy",
+        "EL",
+        "_L",
+        "TL",
+        "kL",
+        "CL"
+      ],
+      "galleryAssets": [
+        "/assets/sala-ODRJef5o.jpg",
+        "/assets/interior-BKvI4uH_.jpg",
+        "/assets/sofa-DhZOHS22.jpg",
+        "/assets/tv-madera-DIHSdA4o.jpg",
+        "/assets/sala-completa-l74ILhcr.jpg",
+        "/assets/lamparas-czZWrXY3.jpg"
+      ],
+      "coverLocal": "/extracted/simetria/assets/sala-ODRJef5o.jpg",
+      "galleryLocal": [
+        "/extracted/simetria/assets/sala-ODRJef5o.jpg",
+        "/extracted/simetria/assets/interior-BKvI4uH_.jpg",
+        "/extracted/simetria/assets/sofa-DhZOHS22.jpg",
+        "/extracted/simetria/assets/tv-madera-DIHSdA4o.jpg",
+        "/extracted/simetria/assets/sala-completa-l74ILhcr.jpg",
+        "/extracted/simetria/assets/lamparas-czZWrXY3.jpg"
+      ],
+      "totalImages": 6
+    },
+    {
+      "id": "casa-nogales",
+      "title": "Casa Nogales",
+      "category": "Residencial",
+      "coverVariable": "av",
+      "coverAsset": "/assets/fachada-D4z6wDdg.jpg",
+      "galleryVariables": [
+        "av",
+        "x2",
+        "S2",
+        "E2",
+        "_2",
+        "T2",
+        "k2"
+      ],
+      "galleryAssets": [
+        "/assets/fachada-D4z6wDdg.jpg",
+        "/assets/exterior-BUZccq5_.jpg",
+        "/assets/comedor-DWrRz2gP.jpg",
+        "/assets/comedor-interior-C_PiSfl5.jpg",
+        "/assets/sala-cocina-BqiVRRLz.jpg",
+        "/assets/bano-BPzFya30.jpg",
+        "/assets/terraza-C_kesjfF.jpg"
+      ],
+      "coverLocal": "/extracted/simetria/assets/fachada-D4z6wDdg.jpg",
+      "galleryLocal": [
+        "/extracted/simetria/assets/fachada-D4z6wDdg.jpg",
+        "/extracted/simetria/assets/exterior-BUZccq5_.jpg",
+        "/extracted/simetria/assets/comedor-DWrRz2gP.jpg",
+        "/extracted/simetria/assets/comedor-interior-C_PiSfl5.jpg",
+        "/extracted/simetria/assets/sala-cocina-BqiVRRLz.jpg",
+        "/extracted/simetria/assets/bano-BPzFya30.jpg",
+        "/extracted/simetria/assets/terraza-C_kesjfF.jpg"
+      ],
+      "totalImages": 7
+    },
+    {
+      "id": "yala-suits",
+      "title": "Yala Suits",
+      "category": "Turismo",
+      "coverVariable": "uv",
+      "coverAsset": "/assets/fachada-portada-z5ihqDnv.jpg",
+      "galleryVariables": [
+        "uv",
+        "A2",
+        "R2",
+        "j2",
+        "O2",
+        "N2",
+        "I2",
+        "L2"
+      ],
+      "galleryAssets": [
+        "/assets/fachada-portada-z5ihqDnv.jpg",
+        "/assets/acceso-DRR7PPqd.jpg",
+        "/assets/fachada-dia-Bko4xuZ7.jpg",
+        "/assets/fachada-noche-BFSPd1sp.jpg",
+        "/assets/detalle-jardineras-B91h5UNW.jpg",
+        "/assets/fachada-arboles-C9LY1Csx.jpg",
+        "/assets/detalle-columnas-COk-1YjM.jpg",
+        "/assets/fachada-lateral-DRPZ0S6M.jpg"
+      ],
+      "coverLocal": "/extracted/simetria/assets/fachada-portada-z5ihqDnv.jpg",
+      "galleryLocal": [
+        "/extracted/simetria/assets/fachada-portada-z5ihqDnv.jpg",
+        "/extracted/simetria/assets/acceso-DRR7PPqd.jpg",
+        "/extracted/simetria/assets/fachada-dia-Bko4xuZ7.jpg",
+        "/extracted/simetria/assets/fachada-noche-BFSPd1sp.jpg",
+        "/extracted/simetria/assets/detalle-jardineras-B91h5UNW.jpg",
+        "/extracted/simetria/assets/fachada-arboles-C9LY1Csx.jpg",
+        "/extracted/simetria/assets/detalle-columnas-COk-1YjM.jpg",
+        "/extracted/simetria/assets/fachada-lateral-DRPZ0S6M.jpg"
+      ],
+      "totalImages": 8
+    },
+    {
+      "id": "bloom-garden",
+      "title": "Bloom Garden",
+      "category": "Comercial",
+      "coverVariable": "Qy",
+      "coverAsset": "/assets/vista-general-DzpigSxg.jpg",
+      "galleryVariables": [
+        "Qy",
+        "XL",
+        "ZL",
+        "eD",
+        "tD",
+        "nD",
+        "rD",
+        "sD",
+        "iD",
+        "oD",
+        "aD",
+        "lD"
+      ],
+      "galleryAssets": [
+        "/assets/vista-general-DzpigSxg.jpg",
+        "/assets/interior-mesas-BiK5f5B2.jpg",
+        "/assets/columna-interior-DUQp5yUg.jpg",
+        "/assets/detalle-lampara-BmLZtp9h.jpg",
+        "/assets/lavamanos-DdJpSiPr.jpg",
+        "/assets/entrada-DRKCesHi.jpg",
+        "/assets/mesa-concreto-D3WFGx2b.jpg",
+        "/assets/columna-persona-Dx4wcpjB.jpg",
+        "/assets/cocina-barra-uFQnjKHb.jpg",
+        "/assets/mural-plantas-DftCziIh.jpg",
+        "/assets/detalle-piedra-Czuj0e1Y.jpg",
+        "/assets/arbol-cocina-DSomPJng.jpg"
+      ],
+      "coverLocal": "/extracted/simetria/assets/vista-general-DzpigSxg.jpg",
+      "galleryLocal": [
+        "/extracted/simetria/assets/vista-general-DzpigSxg.jpg",
+        "/extracted/simetria/assets/interior-mesas-BiK5f5B2.jpg",
+        "/extracted/simetria/assets/columna-interior-DUQp5yUg.jpg",
+        "/extracted/simetria/assets/detalle-lampara-BmLZtp9h.jpg",
+        "/extracted/simetria/assets/lavamanos-DdJpSiPr.jpg",
+        "/extracted/simetria/assets/entrada-DRKCesHi.jpg",
+        "/extracted/simetria/assets/mesa-concreto-D3WFGx2b.jpg",
+        "/extracted/simetria/assets/columna-persona-Dx4wcpjB.jpg",
+        "/extracted/simetria/assets/cocina-barra-uFQnjKHb.jpg",
+        "/extracted/simetria/assets/mural-plantas-DftCziIh.jpg",
+        "/extracted/simetria/assets/detalle-piedra-Czuj0e1Y.jpg",
+        "/extracted/simetria/assets/arbol-cocina-DSomPJng.jpg"
+      ],
+      "totalImages": 12
+    },
+    {
+      "id": "cinco",
+      "title": "Cinco",
+      "category": "Comercial",
+      "coverVariable": "Zy",
+      "coverAsset": "/assets/fachada-BmfUsK3j.jpg",
+      "galleryVariables": [
+        "Zy",
+        "LD",
+        "DD",
+        "ND",
+        "$D",
+        "MD",
+        "ID"
+      ],
+      "galleryAssets": [
+        "/assets/fachada-BmfUsK3j.jpg",
+        "/assets/interior-general-BYXIuXu9.jpg",
+        "/assets/barra-DHC51xGM.jpg",
+        "/assets/interior-mesas-CVY3sSv1.jpg",
+        "$D",
+        "/assets/pasillo-AsntaJPy.jpg",
+        "/assets/detalle-logo-B8NTK5ws.jpg"
+      ],
+      "coverLocal": "/extracted/simetria/assets/fachada-BmfUsK3j.jpg",
+      "galleryLocal": [
+        "/extracted/simetria/assets/fachada-BmfUsK3j.jpg",
+        "/extracted/simetria/assets/interior-general-BYXIuXu9.jpg",
+        "/extracted/simetria/assets/barra-DHC51xGM.jpg",
+        "/extracted/simetria/assets/interior-mesas-CVY3sSv1.jpg",
+        "/extracted/simetria/assets/$D",
+        "/extracted/simetria/assets/pasillo-AsntaJPy.jpg",
+        "/extracted/simetria/assets/detalle-logo-B8NTK5ws.jpg"
+      ],
+      "totalImages": 7
+    },
+    {
+      "id": "consultorio-t-c-",
+      "title": "Consultorio T.C.",
+      "category": "Comercial",
+      "coverVariable": "rv",
+      "coverAsset": "/assets/recepcion-VQqZ9yCz.jpg",
+      "galleryVariables": [
+        "rv",
+        "t2",
+        "n2",
+        "r2",
+        "s2",
+        "i2",
+        "o2",
+        "a2",
+        "l2",
+        "u2",
+        "c2"
+      ],
+      "galleryAssets": [
+        "/assets/recepcion-VQqZ9yCz.jpg",
+        "/assets/detalle-lampara-C_I0QmPX.jpg",
+        "/assets/sala-espera-BRx1nTJ-.jpg",
+        "/assets/espejo-IanMpZX5.jpg",
+        "/assets/recepcion-general-BzBXdZch.jpg",
+        "/assets/sala-espera-persona-CB1KAoTh.jpg",
+        "/assets/detalle-mano-DvQptbVD.jpg",
+        "/assets/letrero-KufNhst3.jpg",
+        "/assets/pasillo-CTjtfOgU.jpg",
+        "/assets/columna-persona-BwzA7uOz.jpg",
+        "/assets/sillon-dental-DpkpzQWg.jpg"
+      ],
+      "coverLocal": "/extracted/simetria/assets/recepcion-VQqZ9yCz.jpg",
+      "galleryLocal": [
+        "/extracted/simetria/assets/recepcion-VQqZ9yCz.jpg",
+        "/extracted/simetria/assets/detalle-lampara-C_I0QmPX.jpg",
+        "/extracted/simetria/assets/sala-espera-BRx1nTJ-.jpg",
+        "/extracted/simetria/assets/espejo-IanMpZX5.jpg",
+        "/extracted/simetria/assets/recepcion-general-BzBXdZch.jpg",
+        "/extracted/simetria/assets/sala-espera-persona-CB1KAoTh.jpg",
+        "/extracted/simetria/assets/detalle-mano-DvQptbVD.jpg",
+        "/extracted/simetria/assets/letrero-KufNhst3.jpg",
+        "/extracted/simetria/assets/pasillo-CTjtfOgU.jpg",
+        "/extracted/simetria/assets/columna-persona-BwzA7uOz.jpg",
+        "/extracted/simetria/assets/sillon-dental-DpkpzQWg.jpg"
+      ],
+      "totalImages": 11
+    },
+    {
+      "id": "brod",
+      "title": "Brod",
+      "category": "Comercial",
+      "coverVariable": "ev",
+      "coverAsset": "/assets/fachada-C4HOLxpl.jpg",
+      "galleryVariables": [
+        "ev",
+        "FD",
+        "BD",
+        "UD",
+        "VD",
+        "zD"
+      ],
+      "galleryAssets": [
+        "/assets/fachada-C4HOLxpl.jpg",
+        "/assets/vitrina-DG38kg0h.jpg",
+        "/assets/interior-C-YOYKx7.jpg",
+        "/assets/barra-ventana-BhaIu-g0.jpg",
+        "/assets/mostrador-B0jqnxnQ.jpg",
+        "/assets/cocina-BlTyc3cD.jpg"
+      ],
+      "coverLocal": "/extracted/simetria/assets/fachada-C4HOLxpl.jpg",
+      "galleryLocal": [
+        "/extracted/simetria/assets/fachada-C4HOLxpl.jpg",
+        "/extracted/simetria/assets/vitrina-DG38kg0h.jpg",
+        "/extracted/simetria/assets/interior-C-YOYKx7.jpg",
+        "/extracted/simetria/assets/barra-ventana-BhaIu-g0.jpg",
+        "/extracted/simetria/assets/mostrador-B0jqnxnQ.jpg",
+        "/extracted/simetria/assets/cocina-BlTyc3cD.jpg"
+      ],
+      "totalImages": 6
+    },
+    {
+      "id": "chanchi",
+      "title": "Chanchi",
+      "category": "Comercial",
+      "coverVariable": "sv",
+      "coverAsset": "/assets/recepcion-DzoixTFR.jpg",
+      "galleryVariables": [
+        "sv",
+        "d2",
+        "h2",
+        "f2",
+        "p2"
+      ],
+      "galleryAssets": [
+        "/assets/recepcion-DzoixTFR.jpg",
+        "/assets/cafe-C4kz8pIV.jpg",
+        "/assets/consulta-WDme5sZR.jpg",
+        "/assets/sillon-Bm_aLZq1.jpg",
+        "/assets/consultorio-BZwlO6mp.jpg"
+      ],
+      "coverLocal": "/extracted/simetria/assets/recepcion-DzoixTFR.jpg",
+      "galleryLocal": [
+        "/extracted/simetria/assets/recepcion-DzoixTFR.jpg",
+        "/extracted/simetria/assets/cafe-C4kz8pIV.jpg",
+        "/extracted/simetria/assets/consulta-WDme5sZR.jpg",
+        "/extracted/simetria/assets/sillon-Bm_aLZq1.jpg",
+        "/extracted/simetria/assets/consultorio-BZwlO6mp.jpg"
+      ],
+      "totalImages": 5
+    },
+    {
+      "id": "consultorio-mq",
+      "title": "Consultorio MQ",
+      "category": "Comercial",
+      "coverVariable": "Xy",
+      "coverAsset": "/assets/lobby-bar-CuWsAzSk.jpg",
+      "galleryVariables": [
+        "Xy",
+        "fD",
+        "pD",
+        "mD",
+        "gD",
+        "yD",
+        "vD",
+        "wD",
+        "bD",
+        "xD",
+        "SD",
+        "ED",
+        "_D",
+        "TD",
+        "kD",
+        "CD",
+        "PD",
+        "AD",
+        "RD",
+        "jD",
+        "OD"
+      ],
+      "galleryAssets": [
+        "/assets/lobby-bar-CuWsAzSk.jpg",
+        "/assets/recepcion-frontal-1_b8XsIM.jpg",
+        "/assets/sala-espera-Cmn8rfNw.jpg",
+        "/assets/sala-espera-lateral-DNttqwok.jpg",
+        "/assets/recepcion-lateral-Pa1HVWMb.jpg",
+        "/assets/consultorio-privado-CVkVr1F4.jpg",
+        "/assets/estanteria-decorativa-COjeGlkS.jpg",
+        "/assets/detalle-lampara-Cr-WICPO.jpg",
+        "/assets/sillon-odontologico-CN71fF1R.jpg",
+        "/assets/mobiliario-clinico-CrjTjZDY.jpg",
+        "/assets/detalle-lavamanos-LG-IbVFi.jpg",
+        "/assets/consultorio-completo-DI1i5kI7.jpg",
+        "/assets/ventanal-mobiliario-BWVBpBmT.jpg",
+        "/assets/vista-consultorios-BHe0BVMv.jpg",
+        "/assets/consultorio-panoramico-CsEzQw92.jpg",
+        "/assets/sillon-completo-Der5DS3u.jpg",
+        "/assets/consultorio-espejo-BUtNVK_j.jpg",
+        "/assets/pasillo-ventanal-CA4ikadf.jpg",
+        "/assets/vista-montanas-CI2q21Rx.jpg",
+        "/assets/consultorio-lateral-DYLjqee_.jpg",
+        "/assets/retrato-doctora-CqTxALbc.jpg"
+      ],
+      "coverLocal": "/extracted/simetria/assets/lobby-bar-CuWsAzSk.jpg",
+      "galleryLocal": [
+        "/extracted/simetria/assets/lobby-bar-CuWsAzSk.jpg",
+        "/extracted/simetria/assets/recepcion-frontal-1_b8XsIM.jpg",
+        "/extracted/simetria/assets/sala-espera-Cmn8rfNw.jpg",
+        "/extracted/simetria/assets/sala-espera-lateral-DNttqwok.jpg",
+        "/extracted/simetria/assets/recepcion-lateral-Pa1HVWMb.jpg",
+        "/extracted/simetria/assets/consultorio-privado-CVkVr1F4.jpg",
+        "/extracted/simetria/assets/estanteria-decorativa-COjeGlkS.jpg",
+        "/extracted/simetria/assets/detalle-lampara-Cr-WICPO.jpg",
+        "/extracted/simetria/assets/sillon-odontologico-CN71fF1R.jpg",
+        "/extracted/simetria/assets/mobiliario-clinico-CrjTjZDY.jpg",
+        "/extracted/simetria/assets/detalle-lavamanos-LG-IbVFi.jpg",
+        "/extracted/simetria/assets/consultorio-completo-DI1i5kI7.jpg",
+        "/extracted/simetria/assets/ventanal-mobiliario-BWVBpBmT.jpg",
+        "/extracted/simetria/assets/vista-consultorios-BHe0BVMv.jpg",
+        "/extracted/simetria/assets/consultorio-panoramico-CsEzQw92.jpg",
+        "/extracted/simetria/assets/sillon-completo-Der5DS3u.jpg",
+        "/extracted/simetria/assets/consultorio-espejo-BUtNVK_j.jpg",
+        "/extracted/simetria/assets/pasillo-ventanal-CA4ikadf.jpg",
+        "/extracted/simetria/assets/vista-montanas-CI2q21Rx.jpg",
+        "/extracted/simetria/assets/consultorio-lateral-DYLjqee_.jpg",
+        "/extracted/simetria/assets/retrato-doctora-CqTxALbc.jpg"
+      ],
+      "totalImages": 21
+    },
+    {
+      "id": "bambazu",
+      "title": "Bambazu",
+      "category": "Residencial",
+      "coverVariable": "iv",
+      "coverAsset": "/assets/fachada-uqOZer1n.jpg",
+      "galleryVariables": [
+        "iv",
+        "m2"
+      ],
+      "galleryAssets": [
+        "/assets/fachada-uqOZer1n.jpg",
+        "/assets/sala-BgpwNO47.jpg"
+      ],
+      "coverLocal": "/extracted/simetria/assets/fachada-uqOZer1n.jpg",
+      "galleryLocal": [
+        "/extracted/simetria/assets/fachada-uqOZer1n.jpg",
+        "/extracted/simetria/assets/sala-BgpwNO47.jpg"
+      ],
+      "totalImages": 2
+    },
+    {
+      "id": "casa-45-entremaderos",
+      "title": "Casa 45 Entremaderos",
+      "category": "Residencial",
+      "coverVariable": "lv",
+      "coverAsset": "/assets/sala-BAhPuGyv.jpg",
+      "galleryVariables": [
+        "lv",
+        "C2",
+        "P2"
+      ],
+      "galleryAssets": [
+        "/assets/sala-BAhPuGyv.jpg",
+        "/assets/cocina-CKWAVo2L.jpg",
+        "/assets/pasillo-B5qAArBj.jpg"
+      ],
+      "coverLocal": "/extracted/simetria/assets/sala-BAhPuGyv.jpg",
+      "galleryLocal": [
+        "/extracted/simetria/assets/sala-BAhPuGyv.jpg",
+        "/extracted/simetria/assets/cocina-CKWAVo2L.jpg",
+        "/extracted/simetria/assets/pasillo-B5qAArBj.jpg"
+      ],
+      "totalImages": 3
+    },
+    {
+      "id": "alce",
+      "title": "Alce",
+      "category": "Comercial",
+      "coverVariable": "Jy",
+      "coverAsset": "/assets/interior-completo-B45EUbz6.jpg",
+      "galleryVariables": [
+        "Jy",
+        "uD",
+        "cD",
+        "dD",
+        "hD"
+      ],
+      "galleryAssets": [
+        "/assets/interior-completo-B45EUbz6.jpg",
+        "/assets/fachada-Bnr_Wa0_.jpg",
+        "/assets/exhibicion-bolsos-CFl63hFl.jpg",
+        "/assets/ropa-estanteria-nMYvWb3l.jpg",
+        "/assets/logo-mural-BJdU5R2v.jpg"
+      ],
+      "coverLocal": "/extracted/simetria/assets/interior-completo-B45EUbz6.jpg",
+      "galleryLocal": [
+        "/extracted/simetria/assets/interior-completo-B45EUbz6.jpg",
+        "/extracted/simetria/assets/fachada-Bnr_Wa0_.jpg",
+        "/extracted/simetria/assets/exhibicion-bolsos-CFl63hFl.jpg",
+        "/extracted/simetria/assets/ropa-estanteria-nMYvWb3l.jpg",
+        "/extracted/simetria/assets/logo-mural-BJdU5R2v.jpg"
+      ],
+      "totalImages": 5
+    },
+    {
+      "id": "mirador-de-cocora",
+      "title": "Mirador de Cocora",
+      "category": "Turismo",
+      "coverVariable": "Ky",
+      "coverAsset": "/assets/terraza-panoramica-Cs8_Z7eJ.jpg",
+      "galleryVariables": [
+        "Ky",
+        "$L",
+        "DL",
+        "ML",
+        "FL"
+      ],
+      "galleryAssets": [
+        "/assets/terraza-panoramica-Cs8_Z7eJ.jpg",
+        "$L",
+        "/assets/recepcion-BrXEjoWX.jpg",
+        "/assets/terraza-CozCGXO_.jpg",
+        "/assets/interior-Bpdp2zA9.jpg"
+      ],
+      "coverLocal": "/extracted/simetria/assets/terraza-panoramica-Cs8_Z7eJ.jpg",
+      "galleryLocal": [
+        "/extracted/simetria/assets/terraza-panoramica-Cs8_Z7eJ.jpg",
+        "/extracted/simetria/assets/$L",
+        "/extracted/simetria/assets/recepcion-BrXEjoWX.jpg",
+        "/extracted/simetria/assets/terraza-CozCGXO_.jpg",
+        "/extracted/simetria/assets/interior-Bpdp2zA9.jpg"
+      ],
+      "totalImages": 5
+    },
+    {
+      "id": "mantra",
+      "title": "Mantra",
+      "category": "Comercial",
+      "coverVariable": "tv",
+      "coverAsset": "/assets/salon-frontal-DWIeoIrx.jpg",
+      "galleryVariables": [
+        "tv",
+        "HD",
+        "KD",
+        "qD",
+        "GD",
+        "YD",
+        "WD"
+      ],
+      "galleryAssets": [
+        "/assets/salon-frontal-DWIeoIrx.jpg",
+        "/assets/interior-BwqneU9s.jpg",
+        "/assets/interior-amplio-CDGcjQTH.jpg",
+        "/assets/terraza-CKS4_SPU.jpg",
+        "/assets/terraza-barra-DWYOzSsb.jpg",
+        "/assets/terraza-detalle-CTESUrE8.jpg",
+        "/assets/detalle-neon-BXJ07bPc.jpg"
+      ],
+      "coverLocal": "/extracted/simetria/assets/salon-frontal-DWIeoIrx.jpg",
+      "galleryLocal": [
+        "/extracted/simetria/assets/salon-frontal-DWIeoIrx.jpg",
+        "/extracted/simetria/assets/interior-BwqneU9s.jpg",
+        "/extracted/simetria/assets/interior-amplio-CDGcjQTH.jpg",
+        "/extracted/simetria/assets/terraza-CKS4_SPU.jpg",
+        "/extracted/simetria/assets/terraza-barra-DWYOzSsb.jpg",
+        "/extracted/simetria/assets/terraza-detalle-CTESUrE8.jpg",
+        "/extracted/simetria/assets/detalle-neon-BXJ07bPc.jpg"
+      ],
+      "totalImages": 7
+    },
+    {
+      "id": "casa-del-r-o",
+      "title": "Casa del Río",
+      "category": "Residencial",
+      "coverVariable": "Uy",
+      "coverAsset": "/assets/exterior-frontal-C4wdFiCk.jpg",
+      "galleryVariables": [
+        "Uy",
+        "gL",
+        "yL",
+        "vL",
+        "wL",
+        "bL",
+        "xL",
+        "SL"
+      ],
+      "galleryAssets": [
+        "/assets/exterior-frontal-C4wdFiCk.jpg",
+        "/assets/exterior-lateral-BwQ3hIfs.jpg",
+        "/assets/cocina-D1N9K1Tw.jpg",
+        "/assets/piscina-atardecer-0ekmNwAb.jpg",
+        "/assets/terraza-piscina-CCvKMkbt.jpg",
+        "/assets/escaleras-DM1sWSr_.jpg",
+        "/assets/fachada-noche-DMVgpBIr.jpg",
+        "/assets/detalle-madera-F_4ufQfU.jpg"
+      ],
+      "coverLocal": "/extracted/simetria/assets/exterior-frontal-C4wdFiCk.jpg",
+      "galleryLocal": [
+        "/extracted/simetria/assets/exterior-frontal-C4wdFiCk.jpg",
+        "/extracted/simetria/assets/exterior-lateral-BwQ3hIfs.jpg",
+        "/extracted/simetria/assets/cocina-D1N9K1Tw.jpg",
+        "/extracted/simetria/assets/piscina-atardecer-0ekmNwAb.jpg",
+        "/extracted/simetria/assets/terraza-piscina-CCvKMkbt.jpg",
+        "/extracted/simetria/assets/escaleras-DM1sWSr_.jpg",
+        "/extracted/simetria/assets/fachada-noche-DMVgpBIr.jpg",
+        "/extracted/simetria/assets/detalle-madera-F_4ufQfU.jpg"
+      ],
+      "totalImages": 8
+    },
+    {
+      "id": "casa-f-s",
+      "title": "Casa F.S",
+      "category": "Residencial",
+      "coverVariable": "ov",
+      "coverAsset": "/assets/fachada-CVdW0C_K.jpg",
+      "galleryVariables": [
+        "ov",
+        "g2",
+        "y2",
+        "v2",
+        "w2",
+        "b2"
+      ],
+      "galleryAssets": [
+        "/assets/fachada-CVdW0C_K.jpg",
+        "/assets/piscina-B2yygfxX.jpg",
+        "/assets/aerea-DTi6UMIE.jpg",
+        "/assets/habitacion-29zkkND6.jpg",
+        "/assets/bano-Bt4xqM91.jpg",
+        "/assets/suite-HwZibZnr.jpg"
+      ],
+      "coverLocal": "/extracted/simetria/assets/fachada-CVdW0C_K.jpg",
+      "galleryLocal": [
+        "/extracted/simetria/assets/fachada-CVdW0C_K.jpg",
+        "/extracted/simetria/assets/piscina-B2yygfxX.jpg",
+        "/extracted/simetria/assets/aerea-DTi6UMIE.jpg",
+        "/extracted/simetria/assets/habitacion-29zkkND6.jpg",
+        "/extracted/simetria/assets/bano-Bt4xqM91.jpg",
+        "/extracted/simetria/assets/suite-HwZibZnr.jpg"
+      ],
+      "totalImages": 6
+    },
+    {
+      "id": "bindi",
+      "title": "Bindi",
+      "category": "Turismo",
+      "coverVariable": "Wy",
+      "coverAsset": "/assets/escaleras-B3zFsS8C.jpg",
+      "galleryVariables": [
+        "Wy",
+        "jL",
+        "OL",
+        "NL",
+        "IL"
+      ],
+      "galleryAssets": [
+        "/assets/escaleras-B3zFsS8C.jpg",
+        "/assets/fachada-BZM_1RKm.jpg",
+        "/assets/recepcion-DwOYXkPi.jpg",
+        "/assets/pasillo-83vwkKEv.jpg",
+        "/assets/habitacion-PIIuWDBE.jpg"
+      ],
+      "coverLocal": "/extracted/simetria/assets/escaleras-B3zFsS8C.jpg",
+      "galleryLocal": [
+        "/extracted/simetria/assets/escaleras-B3zFsS8C.jpg",
+        "/extracted/simetria/assets/fachada-BZM_1RKm.jpg",
+        "/extracted/simetria/assets/recepcion-DwOYXkPi.jpg",
+        "/extracted/simetria/assets/pasillo-83vwkKEv.jpg",
+        "/extracted/simetria/assets/habitacion-PIIuWDBE.jpg"
+      ],
+      "totalImages": 5
+    },
+    {
+      "id": "panorama-salento",
+      "title": "Panorama Salento",
+      "category": "Turismo",
+      "coverVariable": "Gy",
+      "coverAsset": "/assets/fachada-BH8OQpFp.jpg",
+      "galleryVariables": [
+        "Gy",
+        "WL",
+        "HL",
+        "KL",
+        "qL",
+        "GL",
+        "YL",
+        "QL"
+      ],
+      "galleryAssets": [
+        "/assets/fachada-BH8OQpFp.jpg",
+        "/assets/pasillo-verde-DumTfCor.jpg",
+        "/assets/lobby-gIqesKSx.jpg",
+        "/assets/bano-KgBUHhxW.jpg",
+        "/assets/pasillo-madera-Bnmywne8.jpg",
+        "/assets/habitacion-Dpn9d-Pu.jpg",
+        "/assets/exterior-noche-Bj91q-98.jpg",
+        "/assets/exterior-jardin-BrWaH0d6.jpg"
+      ],
+      "coverLocal": "/extracted/simetria/assets/fachada-BH8OQpFp.jpg",
+      "galleryLocal": [
+        "/extracted/simetria/assets/fachada-BH8OQpFp.jpg",
+        "/extracted/simetria/assets/pasillo-verde-DumTfCor.jpg",
+        "/extracted/simetria/assets/lobby-gIqesKSx.jpg",
+        "/extracted/simetria/assets/bano-KgBUHhxW.jpg",
+        "/extracted/simetria/assets/pasillo-madera-Bnmywne8.jpg",
+        "/extracted/simetria/assets/habitacion-Dpn9d-Pu.jpg",
+        "/extracted/simetria/assets/exterior-noche-Bj91q-98.jpg",
+        "/extracted/simetria/assets/exterior-jardin-BrWaH0d6.jpg"
+      ],
+      "totalImages": 8
+    },
+    {
+      "id": "caba-as-delirio",
+      "title": "Cabañas Delirio",
+      "category": "Turismo",
+      "coverVariable": "Hy",
+      "coverAsset": "/assets/exterior-Y8qx6lvv.jpg",
+      "galleryVariables": [
+        "Hy",
+        "LL"
+      ],
+      "galleryAssets": [
+        "/assets/exterior-Y8qx6lvv.jpg",
+        "/assets/habitacion-DeQ2L50N.jpg"
+      ],
+      "coverLocal": "/extracted/simetria/assets/exterior-Y8qx6lvv.jpg",
+      "galleryLocal": [
+        "/extracted/simetria/assets/exterior-Y8qx6lvv.jpg",
+        "/extracted/simetria/assets/habitacion-DeQ2L50N.jpg"
+      ],
+      "totalImages": 2
+    },
+    {
+      "id": "panorama-tapao",
+      "title": "Panorama Tapao",
+      "category": "Turismo",
+      "coverVariable": "qy",
+      "coverAsset": "/assets/conjunto-cabanas-Cz5GjmGt.jpg",
+      "galleryVariables": [
+        "qy",
+        "BL",
+        "UL",
+        "VL",
+        "zL"
+      ],
+      "galleryAssets": [
+        "/assets/conjunto-cabanas-Cz5GjmGt.jpg",
+        "/assets/fachada-BLiJLIS5.jpg",
+        "/assets/noche-C5E3C2dq.jpg",
+        "/assets/bano-D07ToE04.jpg",
+        "/assets/terraza-eiPTf1Li.jpg"
+      ],
+      "coverLocal": "/extracted/simetria/assets/conjunto-cabanas-Cz5GjmGt.jpg",
+      "galleryLocal": [
+        "/extracted/simetria/assets/conjunto-cabanas-Cz5GjmGt.jpg",
+        "/extracted/simetria/assets/fachada-BLiJLIS5.jpg",
+        "/extracted/simetria/assets/noche-C5E3C2dq.jpg",
+        "/extracted/simetria/assets/bano-D07ToE04.jpg",
+        "/extracted/simetria/assets/terraza-eiPTf1Li.jpg"
+      ],
+      "totalImages": 5
+    },
+    {
+      "id": "casa-pt",
+      "title": "Casa PT",
+      "category": "Residencial",
+      "coverVariable": "zy",
+      "coverAsset": "/assets/fachada-frontal-Dqi67KT7.jpg",
+      "galleryVariables": [
+        "zy",
+        "PL",
+        "AL",
+        "RL"
+      ],
+      "galleryAssets": [
+        "/assets/fachada-frontal-Dqi67KT7.jpg",
+        "/assets/fachada-jardin-Bkr_3_PZ.jpg",
+        "/assets/piscina-CFotCRvy.jpg",
+        "/assets/terraza-piscina-7I_TmM9G.jpg"
+      ],
+      "coverLocal": "/extracted/simetria/assets/fachada-frontal-Dqi67KT7.jpg",
+      "galleryLocal": [
+        "/extracted/simetria/assets/fachada-frontal-Dqi67KT7.jpg",
+        "/extracted/simetria/assets/fachada-jardin-Bkr_3_PZ.jpg",
+        "/extracted/simetria/assets/piscina-CFotCRvy.jpg",
+        "/extracted/simetria/assets/terraza-piscina-7I_TmM9G.jpg"
+      ],
+      "totalImages": 4
+    },
+    {
+      "id": "ember",
+      "title": "Ember",
+      "category": "Comercial",
+      "coverVariable": "nv",
+      "coverAsset": "/assets/recepcion-VQvDA2go.jpg",
+      "galleryVariables": [
+        "nv",
+        "QD",
+        "JD",
+        "XD",
+        "ZD",
+        "e2"
+      ],
+      "galleryAssets": [
+        "/assets/recepcion-VQvDA2go.jpg",
+        "/assets/mostrador-Fs3j7x3u.jpg",
+        "/assets/logo-interior-BlQYNXNn.jpg",
+        "/assets/pasillo-BGoOkXy_.jpg",
+        "/assets/equipamiento-D5hoTWji.jpg",
+        "/assets/studio-BQ0f3Sk5.jpg"
+      ],
+      "coverLocal": "/extracted/simetria/assets/recepcion-VQvDA2go.jpg",
+      "galleryLocal": [
+        "/extracted/simetria/assets/recepcion-VQvDA2go.jpg",
+        "/extracted/simetria/assets/mostrador-Fs3j7x3u.jpg",
+        "/extracted/simetria/assets/logo-interior-BlQYNXNn.jpg",
+        "/extracted/simetria/assets/pasillo-BGoOkXy_.jpg",
+        "/extracted/simetria/assets/equipamiento-D5hoTWji.jpg",
+        "/extracted/simetria/assets/studio-BQ0f3Sk5.jpg"
+      ],
+      "totalImages": 6
+    },
+    {
+      "id": "vanessa-vidal",
+      "title": "Vanessa Vidal",
+      "category": "Comercial",
+      "coverVariable": "cv",
+      "coverAsset": "/assets/recepcion-S2iI2vbt.jpg",
+      "galleryVariables": [
+        "cv",
+        "D2",
+        "M2",
+        "$2",
+        "F2",
+        "B2",
+        "U2",
+        "V2",
+        "z2",
+        "W2"
+      ],
+      "galleryAssets": [
+        "/assets/recepcion-S2iI2vbt.jpg",
+        "/assets/escritorio-DIjVxuES.jpg",
+        "/assets/espejo-Dr1eORWY.jpg",
+        "$2",
+        "/assets/detalle-BqAtcECt.jpg",
+        "/assets/lampara-BBitBdG0.jpg",
+        "/assets/puerta-Dakxx5D8.jpg",
+        "/assets/sala-espera-C80jXbby.jpg",
+        "/assets/pasillo-celosia-Bx5SPMhi.jpg",
+        "/assets/lavamanos-oshy9d8K.jpg"
+      ],
+      "coverLocal": "/extracted/simetria/assets/recepcion-S2iI2vbt.jpg",
+      "galleryLocal": [
+        "/extracted/simetria/assets/recepcion-S2iI2vbt.jpg",
+        "/extracted/simetria/assets/escritorio-DIjVxuES.jpg",
+        "/extracted/simetria/assets/espejo-Dr1eORWY.jpg",
+        "/extracted/simetria/assets/$2",
+        "/extracted/simetria/assets/detalle-BqAtcECt.jpg",
+        "/extracted/simetria/assets/lampara-BBitBdG0.jpg",
+        "/extracted/simetria/assets/puerta-Dakxx5D8.jpg",
+        "/extracted/simetria/assets/sala-espera-C80jXbby.jpg",
+        "/extracted/simetria/assets/pasillo-celosia-Bx5SPMhi.jpg",
+        "/extracted/simetria/assets/lavamanos-oshy9d8K.jpg"
+      ],
+      "totalImages": 10
+    }
+  ]
+}

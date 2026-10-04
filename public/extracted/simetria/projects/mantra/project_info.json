@@ -1,0 +1,36 @@
+{
+  "id": "mantra",
+  "title": "Mantra",
+  "category": "Comercial",
+  "coverVariable": "tv",
+  "coverAsset": "/assets/salon-frontal-DWIeoIrx.jpg",
+  "galleryVariables": [
+    "tv",
+    "HD",
+    "KD",
+    "qD",
+    "GD",
+    "YD",
+    "WD"
+  ],
+  "galleryAssets": [
+    "/assets/salon-frontal-DWIeoIrx.jpg",
+    "/assets/interior-BwqneU9s.jpg",
+    "/assets/interior-amplio-CDGcjQTH.jpg",
+    "/assets/terraza-CKS4_SPU.jpg",
+    "/assets/terraza-barra-DWYOzSsb.jpg",
+    "/assets/terraza-detalle-CTESUrE8.jpg",
+    "/assets/detalle-neon-BXJ07bPc.jpg"
+  ],
+  "coverLocal": "/extracted/simetria/assets/salon-frontal-DWIeoIrx.jpg",
+  "galleryLocal": [
+    "/extracted/simetria/assets/salon-frontal-DWIeoIrx.jpg",
+    "/extracted/simetria/assets/interior-BwqneU9s.jpg",
+    "/extracted/simetria/assets/interior-amplio-CDGcjQTH.jpg",
+    "/extracted/simetria/assets/terraza-CKS4_SPU.jpg",
+    "/extracted/simetria/assets/terraza-barra-DWYOzSsb.jpg",
+    "/extracted/simetria/assets/terraza-detalle-CTESUrE8.jpg",
+    "/extracted/simetria/assets/detalle-neon-BXJ07bPc.jpg"
+  ],
+  "totalImages": 7
+}

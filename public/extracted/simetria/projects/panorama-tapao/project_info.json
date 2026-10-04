@@ -1,0 +1,30 @@
+{
+  "id": "panorama-tapao",
+  "title": "Panorama Tapao",
+  "category": "Turismo",
+  "coverVariable": "qy",
+  "coverAsset": "/assets/conjunto-cabanas-Cz5GjmGt.jpg",
+  "galleryVariables": [
+    "qy",
+    "BL",
+    "UL",
+    "VL",
+    "zL"
+  ],
+  "galleryAssets": [
+    "/assets/conjunto-cabanas-Cz5GjmGt.jpg",
+    "/assets/fachada-BLiJLIS5.jpg",
+    "/assets/noche-C5E3C2dq.jpg",
+    "/assets/bano-D07ToE04.jpg",
+    "/assets/terraza-eiPTf1Li.jpg"
+  ],
+  "coverLocal": "/extracted/simetria/assets/conjunto-cabanas-Cz5GjmGt.jpg",
+  "galleryLocal": [
+    "/extracted/simetria/assets/conjunto-cabanas-Cz5GjmGt.jpg",
+    "/extracted/simetria/assets/fachada-BLiJLIS5.jpg",
+    "/extracted/simetria/assets/noche-C5E3C2dq.jpg",
+    "/extracted/simetria/assets/bano-D07ToE04.jpg",
+    "/extracted/simetria/assets/terraza-eiPTf1Li.jpg"
+  ],
+  "totalImages": 5
+}

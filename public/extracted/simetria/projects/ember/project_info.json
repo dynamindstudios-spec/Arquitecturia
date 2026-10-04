@@ -1,0 +1,33 @@
+{
+  "id": "ember",
+  "title": "Ember",
+  "category": "Comercial",
+  "coverVariable": "nv",
+  "coverAsset": "/assets/recepcion-VQvDA2go.jpg",
+  "galleryVariables": [
+    "nv",
+    "QD",
+    "JD",
+    "XD",
+    "ZD",
+    "e2"
+  ],
+  "galleryAssets": [
+    "/assets/recepcion-VQvDA2go.jpg",
+    "/assets/mostrador-Fs3j7x3u.jpg",
+    "/assets/logo-interior-BlQYNXNn.jpg",
+    "/assets/pasillo-BGoOkXy_.jpg",
+    "/assets/equipamiento-D5hoTWji.jpg",
+    "/assets/studio-BQ0f3Sk5.jpg"
+  ],
+  "coverLocal": "/extracted/simetria/assets/recepcion-VQvDA2go.jpg",
+  "galleryLocal": [
+    "/extracted/simetria/assets/recepcion-VQvDA2go.jpg",
+    "/extracted/simetria/assets/mostrador-Fs3j7x3u.jpg",
+    "/extracted/simetria/assets/logo-interior-BlQYNXNn.jpg",
+    "/extracted/simetria/assets/pasillo-BGoOkXy_.jpg",
+    "/extracted/simetria/assets/equipamiento-D5hoTWji.jpg",
+    "/extracted/simetria/assets/studio-BQ0f3Sk5.jpg"
+  ],
+  "totalImages": 6
+}

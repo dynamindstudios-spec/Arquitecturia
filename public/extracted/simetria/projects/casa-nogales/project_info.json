@@ -1,0 +1,36 @@
+{
+  "id": "casa-nogales",
+  "title": "Casa Nogales",
+  "category": "Residencial",
+  "coverVariable": "av",
+  "coverAsset": "/assets/fachada-D4z6wDdg.jpg",
+  "galleryVariables": [
+    "av",
+    "x2",
+    "S2",
+    "E2",
+    "_2",
+    "T2",
+    "k2"
+  ],
+  "galleryAssets": [
+    "/assets/fachada-D4z6wDdg.jpg",
+    "/assets/exterior-BUZccq5_.jpg",
+    "/assets/comedor-DWrRz2gP.jpg",
+    "/assets/comedor-interior-C_PiSfl5.jpg",
+    "/assets/sala-cocina-BqiVRRLz.jpg",
+    "/assets/bano-BPzFya30.jpg",
+    "/assets/terraza-C_kesjfF.jpg"
+  ],
+  "coverLocal": "/extracted/simetria/assets/fachada-D4z6wDdg.jpg",
+  "galleryLocal": [
+    "/extracted/simetria/assets/fachada-D4z6wDdg.jpg",
+    "/extracted/simetria/assets/exterior-BUZccq5_.jpg",
+    "/extracted/simetria/assets/comedor-DWrRz2gP.jpg",
+    "/extracted/simetria/assets/comedor-interior-C_PiSfl5.jpg",
+    "/extracted/simetria/assets/sala-cocina-BqiVRRLz.jpg",
+    "/extracted/simetria/assets/bano-BPzFya30.jpg",
+    "/extracted/simetria/assets/terraza-C_kesjfF.jpg"
+  ],
+  "totalImages": 7
+}

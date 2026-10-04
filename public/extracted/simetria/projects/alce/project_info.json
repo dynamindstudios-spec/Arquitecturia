@@ -1,0 +1,30 @@
+{
+  "id": "alce",
+  "title": "Alce",
+  "category": "Comercial",
+  "coverVariable": "Jy",
+  "coverAsset": "/assets/interior-completo-B45EUbz6.jpg",
+  "galleryVariables": [
+    "Jy",
+    "uD",
+    "cD",
+    "dD",
+    "hD"
+  ],
+  "galleryAssets": [
+    "/assets/interior-completo-B45EUbz6.jpg",
+    "/assets/fachada-Bnr_Wa0_.jpg",
+    "/assets/exhibicion-bolsos-CFl63hFl.jpg",
+    "/assets/ropa-estanteria-nMYvWb3l.jpg",
+    "/assets/logo-mural-BJdU5R2v.jpg"
+  ],
+  "coverLocal": "/extracted/simetria/assets/interior-completo-B45EUbz6.jpg",
+  "galleryLocal": [
+    "/extracted/simetria/assets/interior-completo-B45EUbz6.jpg",
+    "/extracted/simetria/assets/fachada-Bnr_Wa0_.jpg",
+    "/extracted/simetria/assets/exhibicion-bolsos-CFl63hFl.jpg",
+    "/extracted/simetria/assets/ropa-estanteria-nMYvWb3l.jpg",
+    "/extracted/simetria/assets/logo-mural-BJdU5R2v.jpg"
+  ],
+  "totalImages": 5
+}

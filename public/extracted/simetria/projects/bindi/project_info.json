@@ -1,0 +1,30 @@
+{
+  "id": "bindi",
+  "title": "Bindi",
+  "category": "Turismo",
+  "coverVariable": "Wy",
+  "coverAsset": "/assets/escaleras-B3zFsS8C.jpg",
+  "galleryVariables": [
+    "Wy",
+    "jL",
+    "OL",
+    "NL",
+    "IL"
+  ],
+  "galleryAssets": [
+    "/assets/escaleras-B3zFsS8C.jpg",
+    "/assets/fachada-BZM_1RKm.jpg",
+    "/assets/recepcion-DwOYXkPi.jpg",
+    "/assets/pasillo-83vwkKEv.jpg",
+    "/assets/habitacion-PIIuWDBE.jpg"
+  ],
+  "coverLocal": "/extracted/simetria/assets/escaleras-B3zFsS8C.jpg",
+  "galleryLocal": [
+    "/extracted/simetria/assets/escaleras-B3zFsS8C.jpg",
+    "/extracted/simetria/assets/fachada-BZM_1RKm.jpg",
+    "/extracted/simetria/assets/recepcion-DwOYXkPi.jpg",
+    "/extracted/simetria/assets/pasillo-83vwkKEv.jpg",
+    "/extracted/simetria/assets/habitacion-PIIuWDBE.jpg"
+  ],
+  "totalImages": 5
+}

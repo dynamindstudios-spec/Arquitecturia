@@ -1,0 +1,39 @@
+{
+  "id": "yala-suits",
+  "title": "Yala Suits",
+  "category": "Turismo",
+  "coverVariable": "uv",
+  "coverAsset": "/assets/fachada-portada-z5ihqDnv.jpg",
+  "galleryVariables": [
+    "uv",
+    "A2",
+    "R2",
+    "j2",
+    "O2",
+    "N2",
+    "I2",
+    "L2"
+  ],
+  "galleryAssets": [
+    "/assets/fachada-portada-z5ihqDnv.jpg",
+    "/assets/acceso-DRR7PPqd.jpg",
+    "/assets/fachada-dia-Bko4xuZ7.jpg",
+    "/assets/fachada-noche-BFSPd1sp.jpg",
+    "/assets/detalle-jardineras-B91h5UNW.jpg",
+    "/assets/fachada-arboles-C9LY1Csx.jpg",
+    "/assets/detalle-columnas-COk-1YjM.jpg",
+    "/assets/fachada-lateral-DRPZ0S6M.jpg"
+  ],
+  "coverLocal": "/extracted/simetria/assets/fachada-portada-z5ihqDnv.jpg",
+  "galleryLocal": [
+    "/extracted/simetria/assets/fachada-portada-z5ihqDnv.jpg",
+    "/extracted/simetria/assets/acceso-DRR7PPqd.jpg",
+    "/extracted/simetria/assets/fachada-dia-Bko4xuZ7.jpg",
+    "/extracted/simetria/assets/fachada-noche-BFSPd1sp.jpg",
+    "/extracted/simetria/assets/detalle-jardineras-B91h5UNW.jpg",
+    "/extracted/simetria/assets/fachada-arboles-C9LY1Csx.jpg",
+    "/extracted/simetria/assets/detalle-columnas-COk-1YjM.jpg",
+    "/extracted/simetria/assets/fachada-lateral-DRPZ0S6M.jpg"
+  ],
+  "totalImages": 8
+}
